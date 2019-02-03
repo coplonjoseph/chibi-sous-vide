@@ -1,0 +1,9 @@
+
+# Blank lines are ignored.
+# Lines starting with hashtag are comments.
+
+*.cproject
+*.project
+[Bb]uild/
+[Dd]ebug/
+.dep/

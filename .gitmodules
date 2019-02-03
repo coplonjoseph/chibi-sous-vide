@@ -1,0 +1,6 @@
+[submodule "external/ChibiOS-Contrib"]
+	path = external/ChibiOS-Contrib
+	url = https://github.com/ChibiOS/ChibiOS-Contrib.git
+[submodule "external/ChibiOS"]
+	path = external/ChibiOS
+	url = https://github.com/ChibiOS/ChibiOS.git
